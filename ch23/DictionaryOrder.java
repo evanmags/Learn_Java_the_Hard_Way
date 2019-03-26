@@ -3,9 +3,6 @@ import java.util.Scanner;
 
 public class DictionaryOrder{
   public static void main(String[] args){
-
-    out.println(args[0]);
-
     Scanner keyboard = new Scanner(System.in);
     String name;
 
